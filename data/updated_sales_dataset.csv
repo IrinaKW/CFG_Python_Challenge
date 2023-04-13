@@ -1,0 +1,34 @@
+ProductName,SalePrice,QuantitySold,TotalSale,Category,AvgPriceCategory,Month,TotalSaleMonth,CustomerName,TotalPurchasesCustomer,TotalSpentCustomer
+T-shirts,10.99,20,219.8,Clothing,55.24,December,6341.14,John Smith,3,2619.51
+Levi's Jeans,59.99,18,1079.82,Clothing,55.24,April,3229.65,Samantha Davis,3,4855.539999999999
+Dyson Vacuum,599.99,2,1199.98,Home,416.66,August,2395.03,David Williams,2,1999.96
+Sunglasses,21.22,15,318.29999999999995,Accessories,97.39,May,1339.24,Kelly Williams,2,1668.1499999999999
+Headphones,8.99,40,359.6,Electronics,495.12,October,359.6,Chris Brown,2,1659.5
+Water bottles,14.14,22,311.08000000000004,Accessories,97.39,August,2395.03,Amy Lee,2,1210.78
+Backpacks,18.99,27,512.7299999999999,Accessories,97.39,July,5112.53,William Smith,1,512.7299999999999
+Hats,29.99,35,1049.6499999999999,Accessories,97.39,September,3899.53,Emily Davis,2,1849.4499999999998
+Books,11.99,18,215.82,Media,13.99,March,2315.52,Robert Johnson,3,2535.72
+Toys,17.99,29,521.7099999999999,Toys,17.99,December,6341.14,Kimberly White,2,2321.59
+Apples,10.99,32,351.68,Food,10.99,June,1851.62,Michael Johnson,3,3201.5600000000004
+Lawn mower,123.99,24,2975.7599999999998,Outdoor,123.99,November,5042.03,Samantha Davis,3,4855.539999999999
+Samsung Galaxy,899.99,5,4499.95,Electronics,495.12,February ,6499.66,Jane Doe,2,7299.87
+iPhone 13,1299.99,3,3899.9700000000003,Electronics,495.12,December,6341.14,Mark Johnson,2,4200.97
+Lululemon Yoga Mat,89.99,15,1349.85,Fitness,246.66,April,3229.65,Kelly Williams,2,1668.1499999999999
+Picture frames,41.99,2,83.98,Home decor,22.74,August,2395.03,Sarah Anderson,1,83.98
+Candles,3.49,19,66.31,Home decor,22.74,November,5042.03, Kevin Lee,1,66.31
+Apple Watch,399.99,4,1599.96,Electronics,495.12,February ,6499.66,Robert Johnson,3,2535.72
+Oakley Sunglasses,149.99,12,1799.88,Accessories,97.39,July,5112.53,Kimberly White,2,2321.59
+Fitbit Charge 5,149.99,9,1349.91,Fitness,246.66,September,3899.53,Michael Johnson,3,3201.5600000000004
+Harry Potter,15.99,25,399.75,Media,13.99,February ,6499.66,John Smith,3,2619.51
+Phone cases,12.04,25,301.0,Electronics,495.12,May,1339.24,Mark Johnson,2,4200.97
+Nest Thermostat,249.99,6,1499.94,Home,416.66,June,1851.62,Elizabeth Brown,2,2299.9300000000003
+Sony PlayStation 5,499.99,4,1999.96,Electronics,495.12,November,5042.03,John Smith,3,2619.51
+Michael Kors Handbag,349.99,8,2799.92,Accessories,97.39,July,5112.53,Jane Doe,2,7299.87
+Ninja Blender,129.99,10,1299.9,Kitchen,164.99,March,2315.52,Chris Brown,2,1659.5
+Under Armour T-Shirt,29.99,30,899.6999999999999,Clothing,55.24,December,6341.14,Amy Lee,2,1210.78
+Amazon Echo Dot,39.99,20,799.8000000000001,Electronics,495.12,March,2315.52,Emily Davis,2,1849.4499999999998
+Patagonia Fleece,119.99,6,719.9399999999999,Clothing,55.24,May,1339.24,Robert Johnson,3,2535.72
+Schwinn Exercise Bike,499.99,3,1499.97,Fitness,246.66,September,3899.53,Michael Johnson,3,3201.5600000000004
+Cuisinart Food Processor,199.99,4,799.96,Kitchen,164.99,December,6341.14,Samantha Davis,3,4855.539999999999
+iRobot Roomba Vacuum,399.99,2,799.98,Home,416.66,April,3229.65,David Williams,2,1999.96
+Sonos Soundbar,799.99,1,799.99,Electronics,495.12,August,2395.03,Elizabeth Brown,2,2299.9300000000003
